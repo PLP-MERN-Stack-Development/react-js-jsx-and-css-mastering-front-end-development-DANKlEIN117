@@ -47,7 +47,7 @@ project-root/
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-DANKlEIN117.git
 ```
 
 ### 2️⃣ Navigate into the project
