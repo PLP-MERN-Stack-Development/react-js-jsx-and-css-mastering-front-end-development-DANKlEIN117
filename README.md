@@ -53,7 +53,7 @@ git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mas
 ### 2️⃣ Navigate into the project
 
 ```bash
-cd your-repo-name
+cd react-js-jsx-and-css-mastering-front-end-development-DANKlEIN117
 ```
 
 ### 3️⃣ Install dependencies
